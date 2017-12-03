@@ -1,0 +1,6 @@
+language: 
+  - python
+group: 
+  - stable
+script:
+  - python generate.py
