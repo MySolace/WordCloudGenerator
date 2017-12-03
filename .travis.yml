@@ -1,6 +1,6 @@
-{
-  "language": "python",
-  "group": "stable",
-  "dist": "trusty",
-  "os": "linux"
-}
+language: 
+  - python
+group: 
+  - stable
+script:
+  - python generate.py
